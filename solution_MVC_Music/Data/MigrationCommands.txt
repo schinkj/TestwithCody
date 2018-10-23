@@ -1,0 +1,2 @@
+﻿Add-Migration -Context MusicContext -o Data\MusicMigrations
+Update-Database -Context MusicContext
